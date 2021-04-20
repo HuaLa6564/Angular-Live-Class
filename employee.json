@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "Yuni",
+      "salary": 21743243,
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Yuni",
+      "salary": 21743243,
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Yuni",
+      "salary": 21743243,
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Yuni",
+      "salary": 21743243,
+      "gender": "female"
+    },
+    {
+      "id": "34",
+      "name": "xfd",
+      "salary": "563",
+      "gender": "male"
+    },
+    {
+      "id": "test",
+      "name": "test",
+      "salary": "test",
+      "gender": "male"
+    }
+  ]
+}
